@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import ME from '../../assets/me-about.jpg'
+import ME from '../../assets/logo.jpg'
 import {FaAward} from 'react-icons/fa'
 import {FiUsers} from 'react-icons/fi'
 import {VscFolderLibrary} from 'react-icons/vsc'
@@ -40,9 +40,10 @@ const About = () => {
               </div>
 
                 <p>
-                  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Natus cumque nostrum, aspernatur nam nemo reprehenderit eaque. Libero, delectus inventore officiis saepe minima molestiae nostrum sint dolor earum mollitia dolorum magni.
+                I am a web developer, I love to learn, and also to teach, 
+                I work with the vast majority of technologies 
+                focused on software development, I dedicate myself to work in <a href="https://www.comexstudio.com/"><strong>comexstudio</strong></a>
                 </p>
-
                 <a href="#contact" className='btn btn-primary'>Let's Talk</a>
           </div>
       </div>
