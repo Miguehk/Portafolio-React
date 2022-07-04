@@ -41,10 +41,7 @@ const Testimonilas = () => {
               </div>
               <h5 className='client__name'>Ernest Achiever</h5>
                 <small className='client__review'>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                  Similique, quidem iste maxime optio corporis exercitationem 
-                  deserunt obcaecati autem eum illo, dolor ipsum voluptatum unde 
-                  minus molestiae earum cumque provident doloribus!
+                Excellent work, always very attentive.
                 </small>
             </SwiperSlide>
 
@@ -54,13 +51,9 @@ const Testimonilas = () => {
               </div>
               <h5 className='client__name'>Ernest Achiever</h5>
                 <small className='client__review'>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                  Similique, quidem iste maxime optio corporis exercitationem 
-                  deserunt obcaecati autem eum illo, dolor ipsum voluptatum unde 
-                  minus molestiae earum cumque provident doloribus!
+                Your working methods are excellent.
                 </small>
             </SwiperSlide>
-
 
             <SwiperSlide className="testimonial">
               <div className="client__avatar">
@@ -68,23 +61,7 @@ const Testimonilas = () => {
               </div>
               <h5 className='client__name'>Ernest Achiever</h5>
                 <small className='client__review'>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                  Similique, quidem iste maxime optio corporis exercitationem 
-                  deserunt obcaecati autem eum illo, dolor ipsum voluptatum unde 
-                  minus molestiae earum cumque provident doloribus!
-                </small>
-            </SwiperSlide>
-
-            <SwiperSlide className="testimonial">
-              <div className="client__avatar">
-                <img src={AVTR4} alt="Avatar One" />
-              </div>
-              <h5 className='client__name'>Ernest Achiever</h5>
-                <small className='client__review'>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                  Similique, quidem iste maxime optio corporis exercitationem 
-                  deserunt obcaecati autem eum illo, dolor ipsum voluptatum unde 
-                  minus molestiae earum cumque provident doloribus!
+                Very efficient
                 </small>
             </SwiperSlide>
 
